@@ -15,7 +15,7 @@ I make elegantly professional **🌍 web apps and 📱 Android apps** for a livi
 * 🎉 Let's connect on [LinkedIn](https://linkedin.com/in/iamshivamnanda)
 
 <div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+  <a href="https://open.spotify.com/user/31sxldg3vhhi2zxwg5uzcdwh2heu">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
 </div>
