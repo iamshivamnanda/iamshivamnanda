@@ -89,7 +89,6 @@ I make elegantly professional **🌍 web apps and 📱 Android apps** for a livi
 
 <p align="left">
 
-<a href="https://twitter.com/iamshivamnanda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="iamshivamnanda" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/iamshivamnanda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="iamshivamnanda" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/iamshivamnanda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iamshivamnanda" height="28" width="28" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
